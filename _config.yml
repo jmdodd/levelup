@@ -1,3 +1,4 @@
+baseurl: /levelup
 permalink: :title
 defaults:
   -
