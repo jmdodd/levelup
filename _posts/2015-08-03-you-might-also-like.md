@@ -1,6 +1,6 @@
 ---
 title: You might also like...
-subtitle: An exercise in WP_Query, conditional tags, and transients.
+subtitle: An introduction to WP_Query, conditional tags, and transients.
 ---
 ## PHP
 
