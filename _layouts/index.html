@@ -1,15 +1,12 @@
 {% include header.html %}
 
-<ul>
-
-	{% for post in site.posts %} 
-
-	<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-
+<table>
+	{% for post in site.posts reversed %}
+	<tr>
+		<td><a href="{{ site.baseurl }}{{ post.url }}/">{{ post.title }}</a></td>
+		<td>{{ post.subtitle }}</td>
+	</tr>
 	{% endfor %}
-
-</ul>
-
-{{ content }}
+</table>
 
 {% include footer.html %}
