@@ -1,0 +1,13 @@
+<nav class="pagination">
+	{% if page.previous.url %}
+	<a href="{{ site.baseurl }}{{ page.previous.url }}" title="Previous Post: {{page.previous.title}}" class="prev">{{ page.previous.title }}</a>
+	{% else %}
+	<span class="prev">&nbsp;</span>
+	{% endif %}
+	{% if page.next.url %}
+	<a href="{{ site.baseurl }}{{ page.next.url }}" title="Next Post: {{page.next.title}}" class="next">{{ page.next.title }}</a>
+	{% else %}
+	<span class="next">&nbsp;</span>
+	{% endif %}
+	<a href="{{ site.baseurl }}" title="LevelUp" class="home">LevelUp</a>
+</nav>
