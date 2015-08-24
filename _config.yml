@@ -1,5 +1,5 @@
-baseurl: /levelup/
-permalink: :title
+baseurl: /levelup
+permalink: :title/
 defaults:
   -
     scope:

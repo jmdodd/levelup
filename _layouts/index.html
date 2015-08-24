@@ -3,7 +3,7 @@
 <table>
 	{% for post in site.posts reversed %}
 	<tr>
-		<td><a href="{{ site.baseurl }}{{ post.url }}/">{{ post.title }}</a></td>
+		<td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></td>
 		<td>{{ post.subtitle }}</td>
 	</tr>
 	{% endfor %}
