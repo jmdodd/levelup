@@ -13,9 +13,9 @@ subtitle: An introduction to WP_Query, conditional tags, and transients.
 [https://codex.wordpress.org/Conditional_Tags](https://codex.wordpress.org/Conditional_Tags)
 
 ### Functions
-[https://codex.wordpress.org/Template_Tags/get_posts](https://codex.wordpress.org/Template_Tags/get_posts)
-[https://codex.wordpress.org/Function_Reference/query_posts](https://codex.wordpress.org/Function_Reference/query_posts)
-[https://codex.wordpress.org/Function_Reference/set_transient](https://codex.wordpress.org/Function_Reference/set_transient)
+[https://codex.wordpress.org/Template_Tags/get_posts](https://codex.wordpress.org/Template_Tags/get_posts)  
+[https://codex.wordpress.org/Function_Reference/query_posts](https://codex.wordpress.org/Function_Reference/query_posts)  
+[https://codex.wordpress.org/Function_Reference/set_transient](https://codex.wordpress.org/Function_Reference/set_transient)  
 [https://codex.wordpress.org/Function_Reference/get_transient](https://codex.wordpress.org/Function_Reference/get_transient)
 
 ### Classes
