@@ -31,5 +31,5 @@ Install your choice of \*AMP and WordPress on your computer as the local site `w
 Test your debugging setup by creating a test PHP file in your web directory and logging errors to your `error_log`.
 
 ## Additional reading
-[http://www.hanselman.com/blog/ACoderAProgrammerAHackerADeveloperAndAComputerScientistWalkIntoAVennDiagram.aspx](http://www.hanselman.com/blog/ACoderAProgrammerAHackerADeveloperAndAComputerScientistWalkIntoAVennDiagram.aspx)  
-[https://stackoverflow.com/](https://stackoverflow.com/)
+[A Coder, a Programmer, a Hacker, a Developer, and a Computer Scientist walk into a Venn Diagram](http://www.hanselman.com/blog/ACoderAProgrammerAHackerADeveloperAndAComputerScientistWalkIntoAVennDiagram.aspx)  
+[Stack Overflow](https://stackoverflow.com/)
