@@ -32,9 +32,6 @@ subtitle: An introduction to WordPress plugins, filters, and regular expressions
 ### Coding standards
 [https://make.wordpress.org/core/handbook/coding-standards/php/](https://make.wordpress.org/core/handbook/coding-standards/php/)
 
-### Debugging
-[https://codex.wordpress.org/Debugging_in_WordPress](https://codex.wordpress.org/Debugging_in_WordPress)
-
 ### Plugins
 [https://codex.wordpress.org/Writing_a_Plugin](https://codex.wordpress.org/Writing_a_Plugin)
 
