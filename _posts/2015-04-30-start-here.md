@@ -26,7 +26,7 @@ subtitle: Set up your learning environment.
 [https://codex.wordpress.org/Debugging_in_WordPress](https://codex.wordpress.org/Debugging_in_WordPress)
 
 ## Assignment
-Install \*AMP and WordPress on your computer as the local site `wordpress.dev`.
+Install your choice of \*AMP and WordPress on your computer as the local site `wordpress.dev`.
 
 Test your debugging setup by creating a test PHP file in your web directory and logging errors to your `error_log`.
 
